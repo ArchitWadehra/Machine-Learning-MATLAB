@@ -1,4 +1,4 @@
-### Machine Learning in MATLAB
+## Machine Learning in MATLAB
 
 > Linear Regression  
 > Logistic Regression  
